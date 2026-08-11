@@ -8,3 +8,12 @@
 
 // Escreva sua solução abaixo:
 
+
+let produto = "Teclado";
+let preco = 120;
+let quantidade = 2;
+
+let valorTotal = preco * quantidade;
+
+console.log(valorTotal);
+

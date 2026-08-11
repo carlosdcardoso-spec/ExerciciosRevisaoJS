@@ -7,3 +7,12 @@
 
 // Escreva sua solução abaixo:
 
+let nome =  "Carlos";
+
+
+let curso = "DS";
+let modulo = "back";
+console.log("Meu nome é :"+ nome);
+console.log(`Meu nome é:${nome}`)
+
+
